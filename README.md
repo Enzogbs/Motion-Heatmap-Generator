@@ -40,5 +40,5 @@ optional arguments:
 Example usage:
 
 ```bash
-python video_heatmap.py -f input.mp4 -o output_name -A 0.7 -C HOT
+python video_heatmap.py -f input.mp4 -o output_name -a 0.7 -c HOT
 ```
