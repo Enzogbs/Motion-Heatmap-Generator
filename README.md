@@ -4,6 +4,10 @@ This project allows you to generate heatmaps from motion in videos.
 
 https://github.com/user-attachments/assets/0475b42d-bd2c-4331-9a35-917c808dc41b
 
+
+https://github.com/user-attachments/assets/26474652-bd4a-4518-ae8f-2750b96711ce
+
+
 ## Installation
 
 Install all the pre-needed requirements using:
